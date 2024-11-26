@@ -1,6 +1,10 @@
 # 💫 About Me:
-I'm currently working on my java web app.   
+Hi, I'm Tobias Weber,
+an aeronautics engineer from Germany.
 
+I'm currently working on my java web app to get back control over my items in my self-storage...   
+
+Connect with me:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tobias-weber-tw/) 
