@@ -2,7 +2,8 @@
 Hi, I'm Tobias Weber,
 an aeronautics engineer from Germany.
 
-I'm currently working on my java web app to get back control over my items in my self-storage...   
+I'm currently working on my Java web app to regain control over my items in my self-storage unit.
+The app is still a work in progress but is already live on https://mystorge.onrender.com
 
 Connect with me:
 
