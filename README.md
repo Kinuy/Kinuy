@@ -3,7 +3,7 @@ Hi, I'm Tobias Weber,
 an aeronautics engineer from Germany.
 
 I'm currently working on my Java web app to regain control over my items in my self-storage unit (verleih-verschenke-verkauf-app).
-The app is still a work in progress...
+The app is currently a work in progress. You can check out the initial version here https://stuffloop.onrender.com.
 
 Connect with me:
 
